@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="96.975889">
+<testcase classname="Amazon" name="Amazona gider" time="20.084547">
+<system-out><![CDATA[Given go to the web page "https://www.amazon.com/"..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Youtube" name="Youtubea gider" time="12.218926">
+<system-out><![CDATA[Given go to the web page "https://www.youtube.com/".........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Google" name="Google a gider" time="11.192177">
+<system-out><![CDATA[Given go to the web page "https://www.google.com/"..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Fanatik" name="fanatik gider" time="28.471833">
+<system-out><![CDATA[Given go to the web page "https://www.fanatik.com.tr/"......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Fotomac" name="Fotomac a gider" time="25.008406">
+<system-out><![CDATA[Given go to the web page "https://www.fotomac.com.tr/"......................passed
+]]></system-out>
+</testcase>
+</testsuite>

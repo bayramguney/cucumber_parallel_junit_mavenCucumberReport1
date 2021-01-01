@@ -1,0 +1,337 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "output": [
+              "Amazona gider is executing now"
+            ],
+            "result": {
+              "duration": 12045695800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Amazona gider",
+        "description": "",
+        "id": "amazon;amazona-gider",
+        "after": [
+          {
+            "output": [
+              "Amazona gider is executed"
+            ],
+            "result": {
+              "duration": 1961209400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6073757400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "go to the web page \"https://www.amazon.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.amazon.com/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.goToTheWebPage(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Amazon",
+    "description": "",
+    "id": "amazon",
+    "keyword": "Feature",
+    "uri": "features/a.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "output": [
+              "Youtubea gider is executing now"
+            ],
+            "result": {
+              "duration": 5881495500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Youtubea gider",
+        "description": "",
+        "id": "youtube;youtubea-gider",
+        "after": [
+          {
+            "output": [
+              "Youtubea gider is executed"
+            ],
+            "result": {
+              "duration": 1836749700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4499587500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "go to the web page \"https://www.youtube.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.youtube.com/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.goToTheWebPage(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Youtube",
+    "description": "",
+    "id": "youtube",
+    "keyword": "Feature",
+    "uri": "features/b.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "output": [
+              "Google a gider is executing now"
+            ],
+            "result": {
+              "duration": 5793143300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Google a gider",
+        "description": "",
+        "id": "google;google-a-gider",
+        "after": [
+          {
+            "output": [
+              "Google a gider is executed"
+            ],
+            "result": {
+              "duration": 1125890300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4272231400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "go to the web page \"https://www.google.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.google.com/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.goToTheWebPage(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Google",
+    "description": "",
+    "id": "google",
+    "keyword": "Feature",
+    "uri": "features/c.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "output": [
+              "fanatik gider is executing now"
+            ],
+            "result": {
+              "duration": 6102533000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "fanatik gider",
+        "description": "",
+        "id": "fanatik;fanatik-gider",
+        "after": [
+          {
+            "output": [
+              "fanatik gider is executed"
+            ],
+            "result": {
+              "duration": 1953869200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 20414681100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "go to the web page \"https://www.fanatik.com.tr/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.fanatik.com.tr/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.goToTheWebPage(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Fanatik",
+    "description": "",
+    "id": "fanatik",
+    "keyword": "Feature",
+    "uri": "features/d.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "output": [
+              "Fotomac a gider is executing now"
+            ],
+            "result": {
+              "duration": 6730202900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp(Scenario)"
+            }
+          }
+        ],
+        "line": 2,
+        "name": "Fotomac a gider",
+        "description": "",
+        "id": "fotomac;fotomac-a-gider",
+        "after": [
+          {
+            "output": [
+              "Fotomac a gider is executed"
+            ],
+            "result": {
+              "duration": 2213266800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 16063707600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "go to the web page \"https://www.fotomac.com.tr/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.fotomac.com.tr/\"",
+                  "offset": 19
+                }
+              ],
+              "location": "MyStepdefs.goToTheWebPage(String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Fotomac",
+    "description": "",
+    "id": "fotomac",
+    "keyword": "Feature",
+    "uri": "features/e.feature",
+    "tags": []
+  }
+]
